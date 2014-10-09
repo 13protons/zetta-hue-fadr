@@ -1,4 +1,4 @@
-zetta-hue-fadr
-==============
+hue-test
+========
 
-Interacting with phillips hue
+Zetta Server for controlling my hue lights

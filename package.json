@@ -1,0 +1,25 @@
+{
+  "name": "zetta-security-system",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alanguir/hue-test/issues.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanguir/hue-test/issues"
+  },
+  "homepage": "https://github.com/alanguir/hue-test",
+  "dependencies": {
+    "zetta": "^0.11.0",
+    "zetta-hue-driver": "~0.1.0",
+    "color": "~0.7.1"
+  }
+}
